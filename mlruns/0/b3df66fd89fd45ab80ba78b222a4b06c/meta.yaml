@@ -1,0 +1,14 @@
+artifact_uri: /home/marc.fuster/mlflow/mlruns/0/b3df66fd89fd45ab80ba78b222a4b06c/artifacts
+end_time: 1554126679198
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: b3df66fd89fd45ab80ba78b222a4b06c
+source_name: /home/marc.fuster/.conda/envs/mlflow_env/lib/python3.7/site-packages/ipykernel_launcher.py
+source_type: 4
+source_version: ''
+start_time: 1554126679044
+status: 3
+tags: []
+user_id: marc.fuster

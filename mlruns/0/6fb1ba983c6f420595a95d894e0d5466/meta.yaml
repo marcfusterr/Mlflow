@@ -1,0 +1,14 @@
+artifact_uri: /home/marc.fuster/mlflow/mlruns/0/6fb1ba983c6f420595a95d894e0d5466/artifacts
+end_time: 1554118334813
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: 6fb1ba983c6f420595a95d894e0d5466
+source_name: train.py
+source_type: 4
+source_version: ''
+start_time: 1554118334642
+status: 3
+tags: []
+user_id: marc.fuster
